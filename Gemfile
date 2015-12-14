@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-jruby '9.0.0.0'
+ruby '9.0.0.0'
 
 gem 'rack'
 
